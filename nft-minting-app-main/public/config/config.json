@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8AE8f2c47c76825b832Cfcc2195C30d42DACe446",
+  "SCAN_LINK": "https://polygonscan.com/address/0x8ae8f2c47c76825b832cfcc2195c30d42dace446",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "shitty drop",
+  "SYMBOL": "SD",
+  "MAX_SUPPLY": 3333,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/shitty-drop",
+  "SHOW_BACKGROUND": true
+}
